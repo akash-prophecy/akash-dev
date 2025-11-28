@@ -1,6 +1,6 @@
 name: test-git
 description: ''
-version: 0.0.1
+version: 0.0.2
 author: admin@prophecy.io
 language: python
 buildSystem: ''
